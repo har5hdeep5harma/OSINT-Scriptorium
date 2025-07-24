@@ -11,7 +11,7 @@ This repository serves as a **beginner-friendly archive** of notes, tools, and t
 ## Contents of the Scriptorium
 
 - **Foundational Notes** - Markdown files explaining core OSINT principles.
-- **🛠️ Tool Introductions** - Gentle walkthroughs of tools such as:
+- **Tool Introductions** - Gentle walkthroughs of tools such as:
   - `Shodan`
   - `theHarvester`
   - `ExifTool`

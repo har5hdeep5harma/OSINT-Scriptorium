@@ -51,7 +51,6 @@ All techniques demonstrated herein should be applied **within legal boundaries a
 - Tool comparison tables  
 - Automation notebooks  
 - Complex investigation walkthroughs  
-- 
 
 ---
 

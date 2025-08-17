@@ -1,4 +1,4 @@
-# OSINT-Scriptorium — A Beginner’s Repository of Open-Source Intelligence
+# OSINT-Scriptorium - A Beginner’s Repository of Open-Source Intelligence
 
 > *“An intellectual ledger of OSINT, tracing the arc from open data to hidden truths.”*
 
